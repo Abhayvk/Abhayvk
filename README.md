@@ -1,5 +1,5 @@
 <div style="width: 100%; height: 300px; overflow: hidden; display: flex; justify-content: center; align-items: center;">
-    <img src="images/banner.png" style="width: 100%; height: auto;">
+    <img src="github-header-image.png" style="width: 100%; height: auto;">
 </div>
 
 
